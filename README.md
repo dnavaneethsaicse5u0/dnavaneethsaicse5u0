@@ -43,7 +43,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourname@example.com
+- 📧 Email: navneethsa2@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
 - 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
