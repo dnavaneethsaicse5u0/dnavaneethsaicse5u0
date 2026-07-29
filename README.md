@@ -16,15 +16,13 @@ Welcome to my GitHub profile! 🚀
 
 ## 🛠️ Skills & Tools
 
-![Static Badge](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=java&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green?style=for-the-badge&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
----
 
 ## 📊 GitHub Stats
 
